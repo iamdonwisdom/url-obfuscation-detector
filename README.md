@@ -57,7 +57,10 @@ Conclusion
 The URL Obfuscation Detection Tool successfully demonstrates how simple rule-based analysis can identify many phishing-related indicators. While not a replacement for enterprise-grade threat intelligence platforms, it provides an effective educational tool for cybersecurity awareness and phishing detection training.
 
 AUTHOR
-EDE CHIDOZIE PHILIP
+EDE CHIDOZIE P
+
+Usage
+python3 detector.py
 
  Installation
 
@@ -65,6 +68,4 @@ EDE CHIDOZIE PHILIP
 git clone https://github.com/iamdonwisdom/url-obfuscation-detector.git
 cd url-obfuscation-detector
 
-Usage
-python3 detector.py
 
